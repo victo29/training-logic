@@ -1,0 +1,30 @@
+# Compilados de C
+*.o
+*.out
+*.exe
+
+# Arquivos de dependência
+*.d
+
+# Arquivos de biblioteca estática e dinâmica
+*.a
+*.so
+*.dll
+*.lib
+
+# Diretórios comuns de build
+/build/
+bin/
+obj/
+
+# Arquivos de log e temporários
+*.log
+*.tmp
+
+# Arquivos de backup de editores
+*~
+*.swp
+
+# Configurações locais de IDEs
+.vscode/
+.idea/
